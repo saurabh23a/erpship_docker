@@ -1,0 +1,5 @@
+# Ignore environment files
+frappe_docker/.env
+
+# Ignore Docker volumes and data (for safety)
+frappe_docker/volumes/
